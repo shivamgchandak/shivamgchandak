@@ -1,30 +1,59 @@
-<h1 align="center">Hey 👋, I'm Shivam Chandak</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+## Hey 👋, I'm Shivam Chandak
+<img src="https://komarev.com/ghpvc/?username=shivamgchandak&label=🕵️&color=blue" alt="shivam chandak" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgchandak&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgchandak" /> </p>
+---
 
-- 🏠 Yo, I am Shivam Chandak, currently living in Mumbai.
-- 📝 Pursing BTech in Computer Engineering from KJ Somaiya College of Engineering, Mumbai.
-- 👨‍💻 Always coding something or learning the next cool language.
-- ⚡ Fullstack Developer.
-- 🤝 To contact me, just drop a mail at: **shivamgchandak@gmail.com**
+### 👨‍💻 About Me
+- 🏠 Living in **Mumbai**  
+- 📝 Pursuing **BTech in Computer Engineering** at **KJ Somaiya College of Engineering**  
+- 👨‍💻 Always coding something or learning the next cool language  
+- ⚡ Passionate **Fullstack Developer**  
+- 🤝 Reach me at **[shivamgchandak@gmail.com](mailto:shivamgchandak@gmail.com)**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivamgchandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgchandak" height="40" width="40" /> Linkedin</a>
-<br></br>
-<a href="https://www.leetcode.com/shivamgchandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgchandak" height="40" width="40" /> Leetcode</a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
 
-<h3>🚀 My Git Stats</h3>
-<br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgchandak&show_icons=true&locale=en&layout=compact" alt="shivamgchandak" /></p>
+### 🔤 Languages
+![C++](https://skillicons.dev/icons?i=cpp) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![TypeScript](https://skillicons.dev/icons?i=typescript) 
 
-<br></br>
+### 🖥️ Frontend
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![React Native](https://skillicons.dev/icons?i=react) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-<h3>🚀 My Git Stats</h3>
-<br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgchandak&show_icons=true&locale=en" alt="shivamgchandak" /></p>
+### ⚙️ Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express)
+
+### 🗄️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![Postgres](https://skillicons.dev/icons?i=postgres)
+
+### 🔧 Tools & Others
+![Git](https://skillicons.dev/icons?i=git) 
+![Postman](https://skillicons.dev/icons?i=postman) 
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 🌐 Other Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamgchandak)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/shivamgchandak)
+
+---
+
+## 🚀 GitHub Stats
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamgchandak&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgchandak&layout=compact&theme=radical" height="180px" />
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgchandak&theme=radical)
+
+---
+
+✨ *“Code. Learn. Repeat.”* 🚀
