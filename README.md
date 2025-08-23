@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgchandak&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgchandak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgchandak" alt="shivamgchandak" /></a> </p>
-
-
 - 🏠 Yo, I am Shivam Chandak, currently living in Mumbai, India.
 - 📝 Pursing BTech in Computer Engineering from KJ Somaiya College of Engineering, Mumbai, India.
 - 👨‍💻 Always coding something or learning the next cool language.
