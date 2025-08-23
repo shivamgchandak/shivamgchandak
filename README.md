@@ -12,26 +12,33 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
-### 🔤 Languages
-![C++](https://skillicons.dev/icons?i=cpp "C++") 
-![JavaScript](https://skillicons.dev/icons?i=javascript "JavaScript") 
-![TypeScript](https://skillicons.dev/icons?i=typescript "TypeScript") 
-
-### 🖥️ Frontend
-![React](https://skillicons.dev/icons?i=react "React") 
-![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js") 
-![React Native](https://skillicons.dev/icons?i=react "React Native") 
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")
-
-### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js") 
-![Express.js](https://skillicons.dev/icons?i=express "Express.js")
-
-### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB") 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
+<table>
+  <tr>
+    <td align="center"><b>🔤 Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+      <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+    </td>
+    <td align="center"><b>🖥️ Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=react" title="React Native" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+    </td>
+    <td align="center"><b>🗄️ Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+    </td>
+  </tr>
+</table>
 
 ---
 
