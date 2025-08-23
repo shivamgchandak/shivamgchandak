@@ -15,29 +15,23 @@
 ## 💻 Tech Stack
 
 ### 🔤 Languages
-![C++](https://skillicons.dev/icons?i=cpp) 
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![TypeScript](https://skillicons.dev/icons?i=typescript) 
-![SQL](https://skillicons.dev/icons?i=mysql)
+![C++](https://skillicons.dev/icons?i=cpp "C++") 
+![JavaScript](https://skillicons.dev/icons?i=javascript "JavaScript") 
+![TypeScript](https://skillicons.dev/icons?i=typescript "TypeScript") 
 
 ### 🖥️ Frontend
-![React](https://skillicons.dev/icons?i=react) 
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![React Native](https://skillicons.dev/icons?i=react) 
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react "React") 
+![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js") 
+![React Native](https://skillicons.dev/icons?i=react "React Native") 
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")
 
 ### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express)
+![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js") 
+![Express.js](https://skillicons.dev/icons?i=express "Express.js")
 
 ### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-
-### 🔧 Tools & Others
-![Git](https://skillicons.dev/icons?i=git) 
-![Postman](https://skillicons.dev/icons?i=postman) 
-![Figma](https://skillicons.dev/icons?i=figma)
+![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB") 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
 
 ---
 
