@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏠 Living in **Mumbai**  
-- 📝 Pursuing **BTech in Computer Engineering** at **KJ Somaiya College of Engineering**  
+- 🏠 Yo, I am Shivam Chandak, currently living in **Mumbai, India**.
+- 📝 Pursuing **BTech in Computer Engineering** at **KJ Somaiya College of Engineering, Mumbai**  
 - 👨‍💻 Always coding something or learning the next cool language  
-- ⚡ Passionate **Fullstack Developer**  
-- 🤝 Reach me at **[shivamgchandak@gmail.com](mailto:shivamgchandak@gmail.com)**  
+- ⚡ **Fullstack Developer**  
+- 🤝 To contact me, just drop a mail at: **[shivamgchandak@gmail.com](mailto:shivamgchandak@gmail.com)**  
 
 ---
 
@@ -18,6 +18,7 @@
 ![C++](https://skillicons.dev/icons?i=cpp) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![TypeScript](https://skillicons.dev/icons?i=typescript) 
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🖥️ Frontend
 ![React](https://skillicons.dev/icons?i=react) 
@@ -46,13 +47,11 @@
 
 ---
 
-## 🚀 GitHub Stats
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamgchandak&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgchandak&layout=compact&theme=radical" height="180px" />
-</div>
+## 🚀 My Git Stats
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamgchandak&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgchandak&theme=radical)
+## 💻 My Most Used Languages
+![Shivam's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgchandak&layout=compact)
 
 ---
 
