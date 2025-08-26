@@ -24,7 +24,6 @@
     <td align="center"><b>🖥️ Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=react" title="React" />
       <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-      <img src="https://skillicons.dev/icons?i=react" title="React Native" />
       <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
     </td>
   </tr>
