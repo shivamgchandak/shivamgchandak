@@ -39,3 +39,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/shivamgchandak)
 ---
 ✨ *“Code. Learn. Repeat.”* 🚀
+
+
+
+this is my readme for my github profile, this isnt good, make it attractive
